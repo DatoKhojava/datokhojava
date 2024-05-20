@@ -7,7 +7,7 @@ software engineer
 My first victory against 🤖 was - Installing first flash game on my 🖥️ in early 2008.From that moment I decided to dive deeper in computer science, It's my passion to code 👨‍💻 return 0;
 
 * 🌍  I'm based in Batumi, Georgia
-* 🖥️  See my portfolio at [tarragon lemonade](http://https://datokhojava.github.io/tarragon-lemonade/)
+* 🖥️  See my portfolio at [tarragon lemonade](https://datokhojava.github.io/tarragon-lemonade/)
 * ✉️  You can contact me at [khojavad30@gmail.com](mailto:khojavad30@gmail.com)
 
 ### Skills
