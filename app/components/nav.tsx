@@ -4,8 +4,11 @@ const navItems = {
   "/": {
     name: "Home",
   },
-  "/work": {
-    name: "Purple Moon inc.",
+  "/purple-moon": {
+    name: "Purple Moon",
+  },
+  "/bitefolio": {
+    name: "Bitefolio",
   },
   "/blog": {
     name: "Blog",
