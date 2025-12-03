@@ -229,9 +229,16 @@ export default function Page() {
       <p className="mt-2">
         📨 You can reach me:{" "}
         <Link className="text-purple-600 hover:text-purple-400" href="/">
-          dkhojava@purplemoonit.com
+          khojavad30@gmail.com
         </Link>
       </p>
+      <Link
+        href="/cv"
+        className="mt-4 inline-block text-purple-600 font-medium relative group"
+      >
+        📄 You can see my documented experience here
+        <span className="absolute left-0 -bottom-1 w-0 h-0.5 bg-purple-600 transition-all group-hover:w-full"></span>
+      </Link>
     </section>
   );
 }
