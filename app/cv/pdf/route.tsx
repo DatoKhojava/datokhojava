@@ -510,7 +510,8 @@ function CVPDF() {
 // API ROUTE
 export async function GET() {
   const blob = await pdf(<CVPDF />).toBuffer();
-
+  
+  // @ts-ignore
   return new NextResponse(blob, {
     headers: {
       "Content-Type": "application/pdf",
