@@ -1,0 +1,139 @@
+{
+  "personal": {
+    "name": "John Smith",
+    "title": "Senior Full-Stack Engineer | Cloud-Native & AI-Driven Systems",
+    "coverLetter": "I am a senior software engineer with 8+ years of experience designing and building highly scalable systems, cloud-native applications, and developer-friendly tools. My work spans frontend, backend, and DevOps, with a strong focus on developer experience, performance optimization, and system design.\n\nI love contributing to open-source, mentoring developers, and building products that improve productivity and accessibility. I value clarity, collaboration, and craftsmanship in software engineering.\n\nI am currently seeking opportunities where I can drive technical strategy, lead projects, and contribute to impactful user-centered products.",
+    "summary": [
+      "8+ years of experience in full-stack development and cloud infrastructure",
+      "Strong expertise in TypeScript, React, Next.js, Node.js, and Rust",
+      "Experience designing distributed systems, microservices, and event-driven architectures",
+      "Deep knowledge of AWS (Lambda, ECS, DynamoDB, S3), CI/CD, Docker",
+      "Passion for AI, LLM tooling, automation, and developer experience"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Senior Full-Stack Engineer",
+      "company": "NovaTech Labs",
+      "years": "2022 – Present",
+      "details": [
+        "Architected and built a multi-tenant SaaS analytics platform using Next.js, tRPC, and PostgreSQL",
+        "Led migration to serverless infrastructure using AWS Lambda and CloudFront",
+        "Introduced automated testing pipeline with Playwright and Vitest",
+        "Improved CI pipeline efficiency by 65% through caching and parallelization",
+        "Mentored 4 engineers and conducted weekly architecture reviews"
+      ]
+    },
+    {
+      "role": "Frontend Engineer",
+      "company": "CloudForge Systems",
+      "years": "2019 – 2022",
+      "details": [
+        "Developed core UI features for large-scale cloud orchestration dashboard",
+        "Collaborated with backend team to optimize data-fetching using GraphQL and caching",
+        "Implemented global design system with styled-components and Storybook",
+        "Reduced initial load time by 45% through bundle-splitting and performance tuning"
+      ]
+    },
+    {
+      "role": "Software Engineer",
+      "company": "PixelSoft Studio",
+      "years": "2017 – 2019",
+      "details": [
+        "Built internal tools and customer-facing dashboards using React and Express",
+        "Designed automated build system reducing deployment errors by 30%",
+        "Integrated logging and analytics (Sentry, Segment, Mixpanel)",
+        "Conducted code reviews and onboarding for junior developers"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. Computer Science",
+      "institution": "University of Berlin",
+      "years": "2015 – 2017",
+      "details": [
+        "Thesis: “Optimizing Event-Driven Systems for Large-Scale Real-Time Applications”",
+        "Coursework: Distributed Systems, Databases, Information Security"
+      ]
+    },
+    {
+      "degree": "B.Sc. Software Engineering",
+      "institution": "Vienna Technical University",
+      "years": "2011 – 2015",
+      "details": [
+        "GPA: 3.9 / 4.0",
+        "Coursework: Algorithms, Operating Systems, Web Development, Networks"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": ["TypeScript", "JavaScript", "Python", "Rust", "SQL"],
+    "frontend": ["React", "Next.js", "Vue", "Svelte", "TailwindCSS"],
+    "backend": [
+      "Node.js",
+      "tRPC",
+      "GraphQL",
+      "PostgreSQL",
+      "Redis",
+      "WebSockets"
+    ],
+    "cloud": ["AWS", "Docker", "Kubernetes", "Terraform", "CI/CD", "Nginx"],
+    "testing": ["Vitest", "Jest", "Playwright", "Cypress"],
+    "tools": ["Git", "GitHub Actions", "Figma", "Linear", "VS Code"]
+  },
+  "projects": [
+    {
+      "name": "AI-Assistant Developer Platform",
+      "description": "A developer platform for building custom AI assistants using vector databases and streaming APIs.",
+      "tech": ["Next.js", "TypeScript", "Supabase", "WebRTC"]
+    },
+    {
+      "name": "CloudDeploy CLI",
+      "description": "Open-source CLI tool for deploying containerized applications to AWS.",
+      "tech": ["Rust", "Docker", "ECS", "CloudFormation"],
+      "meta": {
+        "stars": 2000,
+        "usage": "Used by several startups for automating CI flows"
+      }
+    },
+    {
+      "name": "Personal Portfolio",
+      "description": "A portfolio site built with Next.js, MDX, TailwindCSS, and RSC. Features interactive blog, dynamic MDX rendering, and CV PDF export."
+    }
+  ],
+  "publications": [
+    "Optimizing Serverless Architectures for High-Traffic Applications — Cloud Engineering Journal (2022)",
+    "Design Patterns for Distributed Event-Driven Systems — DevOps Weekly (2021)",
+    "Building AI-Ready Web Applications Using JavaScript — JS Europe Conference Talk (2020)"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect — Professional (2023)",
+    "Certified Kubernetes Administrator (CKA) — CNCF (2022)",
+    "Google Cloud Professional Developer (2021)",
+    "Advanced React & TypeScript — FrontendMasters (2020)"
+  ],
+  "awards": [
+    "Developer Excellence Award — NovaTech Labs (2023)",
+    "Innovation in Engineering Award — CloudForge (2021)",
+    "Open-Source Contributor of the Year — PixelSoft Studio (2018)"
+  ],
+  "volunteering": [
+    {
+      "role": "Open-Source Maintainer",
+      "organization": "CloudDeploy CLI",
+      "details": "Maintained documentation, reviewed contributions, and planned roadmap."
+    },
+    {
+      "role": "Programming Mentor",
+      "organization": "Code for Youth",
+      "details": "Taught web development fundamentals to students aged 14–18."
+    }
+  ],
+  "contact": {
+    "email": "john.smith@example.com",
+    "github": "https://github.com/johnsmith",
+    "linkedin": "https://linkedin.com/in/johnsmith",
+    "website": "https://johnsmith.dev"
+  }
+}
